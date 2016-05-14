@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/ged/source/CyberhoopAndroid/app/libs/TarsosDSP-Android-2.0-bin.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="1e716281db210fc3ef4ed201056ac50490cd706b">
+        <dex dex="/Users/ged/source/CyberhoopAndroid/app/build/intermediates/pre-dexed/release/TarsosDSP-Android-2.0-bin_0cf9057978ab103cf7d170c0cddf5bddcd1500e2.jar" />
+    </item>
+    <item
+        jar="/Users/ged/source/CyberhoopAndroid/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="/Users/ged/source/CyberhoopAndroid/app/build/intermediates/pre-dexed/release/com.android.support-animated-vector-drawable-23.3.0_0693b9d400403294b510cc703f5e2a88254781cf.jar" />
+    </item>
+    <item
+        jar="/Users/ged/source/CyberhoopAndroid/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/Users/ged/source/CyberhoopAndroid/app/build/intermediates/pre-dexed/release/com.android.support-support-v4-23.3.0_ce5d47d4ae67ac0c69b1993bfdd45dad3c671f3d.jar" />
+    </item>
+    <item
+        jar="/Users/ged/source/CyberhoopAndroid/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/Users/ged/source/CyberhoopAndroid/app/build/intermediates/pre-dexed/release/internal_impl-23.3.0_ada52ad1d93663ffecdf24696652758eec3e1bcf.jar" />
+    </item>
+    <item
+        jar="/Users/ged/source/CyberhoopAndroid/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="/Users/ged/source/CyberhoopAndroid/app/build/intermediates/pre-dexed/release/com.android.support-appcompat-v7-23.3.0_e6d64408ddbdae97f186f836a3d3eb47637fc5ab.jar" />
+    </item>
+    <item
+        jar="/Users/ged/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/Users/ged/source/CyberhoopAndroid/app/build/intermediates/pre-dexed/release/support-annotations-23.3.0_a09a3900d046e4d144aa49abbceef7650edea19b.jar" />
+    </item>
+    <item
+        jar="/Users/ged/source/CyberhoopAndroid/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="/Users/ged/source/CyberhoopAndroid/app/build/intermediates/pre-dexed/release/com.android.support-support-vector-drawable-23.3.0_53c2cf4b674cfc9d0dd9bb70b222d7ee9b9cf895.jar" />
+    </item>
+
+</items>
